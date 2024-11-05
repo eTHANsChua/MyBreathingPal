@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		64450C0D2CDAAFF400397E07 /* final_songs_scores.csv in Resources */ = {isa = PBXBuildFile; fileRef = 64450C0C2CDAAFF300397E07 /* final_songs_scores.csv */; };
 		CF7933A92CC6B4B1009197B5 /* HomePageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF7933A82CC6B4B1009197B5 /* HomePageView.swift */; };
 		CF7933AB2CC6B68A009197B5 /* Search.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF7933AA2CC6B68A009197B5 /* Search.swift */; };
 		CF7933AD2CC6B6E9009197B5 /* results.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF7933AC2CC6B6E9009197B5 /* results.swift */; };
@@ -41,6 +42,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		64450C0C2CDAAFF300397E07 /* final_songs_scores.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = final_songs_scores.csv; sourceTree = "<group>"; };
 		CF7933A82CC6B4B1009197B5 /* HomePageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePageView.swift; sourceTree = "<group>"; };
 		CF7933AA2CC6B68A009197B5 /* Search.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Search.swift; sourceTree = "<group>"; };
 		CF7933AC2CC6B6E9009197B5 /* results.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = results.swift; sourceTree = "<group>"; };
@@ -120,6 +122,7 @@
 				CF7933AA2CC6B68A009197B5 /* Search.swift */,
 				CF7933AC2CC6B6E9009197B5 /* results.swift */,
 				CFB96CD82CD9336300A8B8A5 /* SongDisplay.swift */,
+				64450C0C2CDAAFF300397E07 /* final_songs_scores.csv */,
 			);
 			path = MyBreathingPal;
 			sourceTree = "<group>";
@@ -255,6 +258,7 @@
 				CFB96CCD2CD9315A00A8B8A5 /* Exhale.MP4 in Resources */,
 				CFB96CCF2CD9317C00A8B8A5 /* Inhale.MP4 in Resources */,
 				CFB96CD52CD9333700A8B8A5 /* Assets.xcassets in Resources */,
+				64450C0D2CDAAFF400397E07 /* final_songs_scores.csv in Resources */,
 				CF9F91DD2CAF08C800B4267E /* Assets.xcassets in Resources */,
 				CFB96CD72CD9334100A8B8A5 /* Assets.xcassets in Resources */,
 			);

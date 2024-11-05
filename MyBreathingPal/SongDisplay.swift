@@ -10,8 +10,8 @@ import AVKit
 
 struct SongDisplay: View {
     // Paths to the inhale and exhale videos
-    let inhaleURL = URL(fileURLWithPath: "/Users/ethanchua/Downloads/Inhale.MP4")
-    let exhaleURL = URL(fileURLWithPath: "/Users/ethanchua/Downloads/Exhale.MP4")
+    let inhaleURL = URL(fileURLWithPath: "/Users/keshavrangan/Documents/MyBreathingPal/MyBreathingPal/Assets.xcassets/Inhale.MP4")
+    let exhaleURL = URL(fileURLWithPath: "/Users/keshavrangan/Documents/MyBreathingPal/MyBreathingPal/Assets.xcassets/Exhale.MP4")
     
     // State variables to control the video and toggle between inhale and exhale
     @State private var player: AVPlayer
